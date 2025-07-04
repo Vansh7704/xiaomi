@@ -1,0 +1,180 @@
+body{
+    font-family: "Montserrat", serif;
+    margin: 0;
+   
+}
+.navbar{
+    
+    display: flex;
+
+height: 48px;
+width: 1500px;
+background-color: white;
+margin: 0%;
+z-index: 1000;
+}
+.r-nav{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    gap: 3rem;
+    margin-top: 0.8rem;
+    font-weight: 500;
+}
+.nav-logo{
+    display: flex;
+    margin-left: 1.5rem;
+    
+}
+.l-nav{
+    display: flex;
+    margin-left: auto;
+   margin-right: 3.5rem;
+   gap: 3rem;
+   margin-top: 0.8rem;
+   font-weight: 500;
+}
+.maincontent{
+   
+    margin: 0%;
+  
+}
+.video-text {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    
+    font-weight: bold;
+   
+    padding: 10px;
+    border-radius: 8px;
+    width: 85%;
+    line-height: 0%;
+    color: rgb(131,38,42);
+}
+.span{
+    
+    width: 700px;
+    height: 147px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25rem;
+    margin-top: 15rem;
+    margin-bottom: 10rem;
+}
+.badiimg{
+    width: 1450.5px;
+    height: 940.3px;
+    justify-content: center;
+    align-items: center;
+}
+.badiimg img{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1.4rem;
+}
+.span2{
+    
+    width: 1000px;
+    height: 147px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 17rem;
+    margin-top: 15rem;
+    margin-bottom: 10rem;
+}
+.weather{
+    width: 851.35px;
+    height: 415.08;
+    
+   
+}
+.weather img{
+    height: 100%;
+    width: 100%;
+    margin-left: 20rem;
+}
+.weather2{
+    width: 1520px;
+    height: 850.85px;
+    margin: 0%;
+    margin-top: 2.6rem;
+}
+.weather2 img{
+    margin: 0%;
+    height: 100%;
+    width: 100%;
+    
+}
+.weather2 p  {
+    position: absolute;
+    top: 215rem;
+    font-size: 3.6rem;
+    font-weight: 600;
+    color: white;
+    width: 700px;
+    left: 27rem;
+}
+.phone-video{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+.phone-vid{
+    width: 215px;
+    height: 400px;
+    display: flex;
+ 
+
+}
+.phone-vid2{
+    width: 200px;
+    height: 400px;
+    display: flex;
+   
+
+}
+.phone-vid video{
+    height: 100%;
+    width: 100%;
+   
+}
+.phone-text{
+    font-size: 3rem;
+    font-weight: 700;
+    margin: 0%;
+   margin-top: 5rem;
+   margin-bottom: 3rem;
+}
+
+.tab-vid{
+    height:480px;
+    width: 490px;
+}
+.tab-vid video{
+    height: 100%;
+    width: 100%;
+}
+.tab-vid img{
+    margin-top: 7rem;
+    height: 70%;
+    width: 100%;
+}
+.text1{
+      height: 84.88px;
+      width: 289.5px;
+      font-size: 1.5rem;
+      font-weight: 600;
+      
+}
+.tab1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+}
